@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkillVideo</string>
+
+    <string name="title_activity_capture_vedio">CaptureVedioActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="permission_warning">To continue, please enable Camera and Read Write External Storage permission for this application.</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
