@@ -11,8 +11,8 @@
          TextureView, etc. -->
 
 
-    <SurfaceView
-        android:id="@+id/surfaceView2"
+    <TextureView
+        android:id="@+id/textureView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </FrameLayout>
